@@ -40,7 +40,7 @@ You need an API key to run this project.
 
 
 
-Installation & Setup
+##  Instalation and Setup
 
 # Clone the repository
 git clone https://github.com/kushal2061/movieApp
