@@ -43,7 +43,7 @@ You need an API key to run this project.
 Installation & Setup
 
 # Clone the repository
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/kushal2061/movieApp
 
 # Go to project folder
 cd movie-app
